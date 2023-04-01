@@ -47,7 +47,9 @@ Booking doctor appointments is a time-consuming and difficult task for many pati
   <a href="" rel="noopener">
  <img width=500px height=200px src="swag.png" alt="Project logo"></a>
 </p>
+
 1.This is the main page of the doctor appointement booking project
+
 2.In the appointement booking project there are four option are there Doctor, patient, admin, and Exit.
 
 
