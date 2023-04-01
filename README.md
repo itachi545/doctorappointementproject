@@ -19,8 +19,8 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
-- [Usage](#usage)
-- [Flow Chart](#flowchart)
+
+
 - [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
@@ -38,4 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 5. IDE : Eclipse IDE 
 6. Networking : Internet connection for external services 
 
+## ?? Deployment <a name = "deployment"></a>
+Booking doctor appointments is a time-consuming and difficult task for many patients. This project aims to create a system that will allow patients to easily find and book doctor appointments online. The system will provide a user-friendly interface where patients can search for doctors, view their availability, and select an appointment. The system will also provide automated emails to both the patient and doctor to remind them of the appointment. Furthermore, the system will provide doctors with a way to manage their schedules and patient information.
+.
 
