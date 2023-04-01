@@ -14,3 +14,19 @@
 <p align="center"> Few lines describing your project.
     <br> 
 </p>
+
+## ?? Table of Contents
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Deployment](#deployment)
+- [Usage](#usage)
+- [Flow Chart](#flowchart)
+- [TODO](../TODO.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgement)
+
+## ?? About <a name = "about"></a>
+The goal of this project is to build a system that allows patients to book doctor appointments online. The system will provide patients with an easy-to-use interface to search for doctors and select an appointment based on availability. Additionally, the system will send automated emails to both the patient and doctor to remind them of the appointment. The system will also allow for doctors to manage their schedules and patient information
+## ?? Getting Started <a name = "getting_started"></a>
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
