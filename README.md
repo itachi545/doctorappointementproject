@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="Project logo"></a>
+ < ![mainpage](https://user-images.githubusercontent.com/126753404/229310802-d3a14815-fec4-4c3c-bf1d-010d69a89ad2.png)
+alt="Project logo"></a>
 </p>
 
 
