@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="" rel="noopener">
- < ![mainpage](https://user-images.githubusercontent.com/126753404/229310802-d3a14815-fec4-4c3c-bf1d-010d69a89ad2.png)
-alt="Project logo"></a>
+ <[mainpage](https://user-images.githubusercontent.com/126753404/229310890-cbb0173a-cf4b-4f39-a5fa-f8d891983705.png)</a>
+
 </p>
 
 
