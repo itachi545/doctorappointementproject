@@ -55,7 +55,7 @@ Booking doctor appointments is a time-consuming and difficult task for many pati
 2.In the appointement booking project there are four option are there Doctor, patient, admin, and Exit.
 
 
-### DOCTOR PAGE
+###   🎉 DOCTOR PAGE
 <p align="center">
   <a href="" rel="noopener">
  <img width=500px height=200px src="swag.png" alt="Project logo"></a>
@@ -91,7 +91,7 @@ Booking doctor appointments is a time-consuming and difficult task for many pati
 
 6.And then it shows the registered doctorname
 
-### PATIENT PAGE 
+###  🎉 PATIENT PAGE 
 <p align="center">
   <a href="" rel="noopener">
  <img width=500px height=200px src="swag.png" alt="Project logo"></a>
@@ -133,7 +133,7 @@ Booking doctor appointments is a time-consuming and difficult task for many pati
 
 7.After we enter a details and it booking sucessfull
 
-### ADMIN PAGE
+###  🎉 ADMIN PAGE
 <p align="center">
   <a href="" rel="noopener">
  <img width=500px height=200px src="swag.png" alt="Project logo"></a>
@@ -161,7 +161,7 @@ Booking doctor appointments is a time-consuming and difficult task for many pati
 
 5.If we select the patient with appointement and it shows the appointement list
 
-## CONCLUSION <a name="conclusion"></a>
+##  🎉 CONCLUSION <a name="conclusion"></a>
   The Doctor Booking appointment mini-project aims to make the process of booking a doctor appointment a more convenient and efficient process for the user. By providing a web application that allows users to quickly search for available doctors and book appointments with them, users can quickly and easily find the healthcare they need. This project has been designed to be secure, efficient, and user-friendly, so that users can have peace of mind when booking appointments. We hope that this project will help make every patient's experience with obtaining healthcare a positive one.
 
 
