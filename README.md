@@ -11,3 +11,6 @@
 <h3 align="center">Doctor Booking Appointement</h3>
 
 ---
+<p align="center"> Few lines describing your project.
+    <br> 
+</p>
