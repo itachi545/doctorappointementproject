@@ -17,6 +17,7 @@
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [CONCLUSION](#conclusion)
+-  [System Requirements](#systemrequirements)
 
 
 
@@ -28,7 +29,7 @@ The goal of this project is to build a system that allows patients to book docto
 ## 🎉 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-### 🎉 System Requirements
+## 🎉 System Requirements<a name = "systemrequirements"></a>
 1. Operating System : Windows 7 or Higher
 2. Java Version : Java 8 or Higher
 3. Memory : 2GB RAM or Higher
