@@ -40,7 +40,7 @@ These instructions will get you a copy of the project up and running on your loc
 Booking doctor appointments is a time-consuming and difficult task for many patients. This project aims to create a system that will allow patients to easily find and book doctor appointments online. The system will provide a user-friendly interface where patients can search for doctors, view their availability, and select an appointment. The system will also provide automated emails to both the patient and doctor to remind them of the appointment. Furthermore, the system will provide doctors with a way to manage their schedules and patient information.
 ##   🎉 Usage <a name="usage"></a>
 
-### 🎉 MAIN 
+### 🎉 MAIN PAGE
 
 ![mainpage1](https://user-images.githubusercontent.com/126753404/229324341-0073c5d4-574e-4b20-a68a-c9600c325446.png)
 
@@ -51,12 +51,10 @@ Booking doctor appointments is a time-consuming and difficult task for many pati
 
 
 ###   🎉 DOCTOR PAGE
-<p align="center">
-  <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="Project logo"></a>
-</p>
 
 
+
+![doctorlogin](https://user-images.githubusercontent.com/126753404/229324403-6a7d1188-b7d7-4b2a-a97a-959dddb29861.png)
 
 
 
@@ -69,10 +67,10 @@ Booking doctor appointments is a time-consuming and difficult task for many pati
 
 4.In this page we can see is there any appointements are the particular doctor
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="Project logo"></a>
-</p>
+
+
+![dregistration](https://user-images.githubusercontent.com/126753404/229324442-0c524607-56d7-4841-ad57-6b6544552ccf.png)
+
 
 1.This is the doctor registration page
 
@@ -87,11 +85,9 @@ Booking doctor appointments is a time-consuming and difficult task for many pati
 6.And then it shows the registered doctorname
 
 ###  🎉 PATIENT PAGE 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="Project logo"></a>
-</p>
 
+
+![pregistration](https://user-images.githubusercontent.com/126753404/229324500-e1e9339f-57f1-4dd6-b4db-3a67d75b4d70.png)
 
 1.This is the Patient registration page 
 
@@ -103,15 +99,11 @@ Booking doctor appointments is a time-consuming and difficult task for many pati
 
 5.we enter the details  and the registration is successful
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="Project logo"></a>
-</p>
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="Project logo"></a>
-</p>
+![plogin](https://user-images.githubusercontent.com/126753404/229324580-f646406b-98e6-4f7d-a7db-66d5967b2350.png)
+
+
+![pbooking](https://user-images.githubusercontent.com/126753404/229324585-f6eec18b-353b-48aa-aa60-0054ab83640d.png)
 
 
 1.This is a patient login page .This page only open if we complete the registration first
@@ -129,21 +121,15 @@ Booking doctor appointments is a time-consuming and difficult task for many pati
 7.After we enter a details and it booking sucessfull
 
 ###  🎉 ADMIN PAGE
-<p align="center">
-  <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="Project logo"></a>
-</p>
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="Project logo"></a>
-</p>
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="Project logo"></a>
-</p>
+![dlist](https://user-images.githubusercontent.com/126753404/229324684-06349839-e285-4081-8dc0-f6b2041fb40f.png)
 
+
+![rp](https://user-images.githubusercontent.com/126753404/229324692-05e42569-b4ec-4510-bfb5-d9cf199edbb9.png)
+
+
+![pa](https://user-images.githubusercontent.com/126753404/229324697-f3127aa4-0be0-45e1-93c6-85e8cd62c2de.png)
 
 
 1.This is the admin page. In this page there are four option are there
