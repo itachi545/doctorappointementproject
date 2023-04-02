@@ -2,11 +2,6 @@
 
 # project-documentation
 
-<p align="center">
-  <a href="" rel="noopener">
- <[mainpage](https://user-images.githubusercontent.com/126753404/229310890-cbb0173a-cf4b-4f39-a5fa-f8d891983705.png)</a>
-
-</p>
 
 
 <h3 align="center">Doctor Booking Appointement</h3>
@@ -45,11 +40,10 @@ These instructions will get you a copy of the project up and running on your loc
 Booking doctor appointments is a time-consuming and difficult task for many patients. This project aims to create a system that will allow patients to easily find and book doctor appointments online. The system will provide a user-friendly interface where patients can search for doctors, view their availability, and select an appointment. The system will also provide automated emails to both the patient and doctor to remind them of the appointment. Furthermore, the system will provide doctors with a way to manage their schedules and patient information.
 ##   🎉 Usage <a name="usage"></a>
 
-### 🎉 MAIN PAGE
-<p align="center">
-  <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="Project logo"></a>
-</p>
+### 🎉 MAIN 
+
+![mainpage1](https://user-images.githubusercontent.com/126753404/229324341-0073c5d4-574e-4b20-a68a-c9600c325446.png)
+
 
 1.This is the main page of the doctor appointement booking project
 
